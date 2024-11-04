@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="register">Register</string>
+    <string name="quota_format">Quota: %1$d</string>
+    <string name="registrants_format">Registrants: %1$d</string>
+    <string name="remaining_quota_format">Sisa Kuota: %1$d</string>
+    <string name="owner_name_format">Penyelenggara: %1$s</string>
+    <string name="event_time_format">Waktu: %1$s</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="favorite_events">Favorite Events</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail Events</string>
+    <string name="favorite">favorite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_favorite">favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_setting">Setting</string>
+
+</resources>
